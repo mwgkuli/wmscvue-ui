@@ -1,0 +1,4 @@
+﻿文件下载网址  =>  文件保存路径
+转URI地址失败：http://img.shop.wanmei.com{{=psb.img}}_50.jpg
+转URI地址失败：http://img.shop.wanmei.com{{=bean.img}}_50.jpg
+转URI地址失败：http://img.shop.wanmei.com{{=product.bigImg}}_120.jpg

@@ -1,0 +1,6 @@
+﻿文件下载网址  =>  文件保存路径
+转URI地址失败：http://img.shop.wanmei.com{{=psb.img}}_50.jpg
+转URI地址失败：http://img.shop.wanmei.com{{=bean.img}}_50.jpg
+转URI地址失败：http://img.shop.wanmei.com{{=product.bigImg}}_120.jpg
+http://img.shop.wanmei.com/upload/product_show/2018-04-20/168f3e557cef4ed8a7d32ef4ad54699c.jpg  =>  C:\Users\Administrator\Desktop\shop.wanmei.com\picture\168f3e557cef4ed8a7d32ef4ad54699c.jpg
+http://img.shop.wanmei.com/upload/product_show/2018-04-20/e898c1c640b74be0bda0704d7499912e.jpg  =>  C:\Users\Administrator\Desktop\shop.wanmei.com\picture\e898c1c640b74be0bda0704d7499912e.jpg
